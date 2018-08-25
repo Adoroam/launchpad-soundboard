@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "launchpad-mk2": "^2.0.3",
+    "robotjs": "^0.5.1"
+  }
 }
